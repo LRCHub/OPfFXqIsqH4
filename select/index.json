@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "「ひとりで生きられそう」って それってねえ、褒めているの？(New Vocal Ver.)",
+  "base_artist": "Juice=Juice",
+  "createdAt": "2026-02-20T08:03:29.941296Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「ひとりで生きられそう」って それってねえ、褒めているの?(New Vocal Ver.)",
+      "artist": "Juice=Juice",
+      "has_synced": false,
+      "path": "select/pl_01_「ひとりで生きられそう」って_それってねえ、褒めているの_(New_Vocal_Ver.)_Juice=Juice.txt"
+    }
+  ]
+}
